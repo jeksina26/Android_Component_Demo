@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LifeCycle_Components_Demo</string>
+    <string name="name">Enter Name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="dance">Dance</string>
+    <string name="hockey">Hockey</string>
+    <string name="submit">Submit</string>
+    <string name="hobby">Hobby of the person is</string>
+    <string name="gender">Gender of the person is</string>
+    <string name="person_name">Name of the person is</string>
+    <string name="next">Next</string>
+    <string name="pending">Pending Intent Demo</string>
+    <string name="click">Click</string>
+    <string name="reset">Reset</string>
+
+</resources>
